@@ -1,0 +1,21 @@
+{
+  "name": "Shortest-Courier-Trip",
+  "version": "1.0.0",
+  "description": "Shortest-Courier-Trip with ES6 support",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "./node_modules/.bin/nodemon"
+  },
+  "author": "Santosh Shinde",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-preset-es2015": "^6.22.0",
+    "babel-register": "^6.23.0",
+    "nodemon": "^1.11.0"
+  },
+  "dependencies": {
+    "body-parser": "^1.16.1",
+    "express": "^4.14.1"
+  }
+}
